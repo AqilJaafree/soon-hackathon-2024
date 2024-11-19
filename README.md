@@ -6,6 +6,15 @@ Esport Dream League is a decentralized gaming platform built on the Soon network
 # Solana Explorer Contract 
 https://explorer.devnet.soo.network/address/FAmj5kvAaDgTdS1nzknYDDkS3hCYvAS2EJVNtHKfNqg6
 
+## Slide
+https://pitch.com/v/untitled-presentation-wwfw3w
+
+## Contract Code
+https://github.com/AqilJaafree/soon-contract-hackathon-2024
+
+## video presentation
+https://youtu.be/5eYeuW8T3Bs
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Prerequisites](#prerequisites)
